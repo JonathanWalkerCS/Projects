@@ -1,9 +1,11 @@
 # COP3014C_Projects
 
-* racing.cpp | February 2023
+* Project 1| racing.cpp | February 2023
+Accompanying file: times.dat
 
-* acmebank.cpp | March 2023
+* Project 2| acmebank.cpp | March 2023
+Accompanying file: 
 
-* scores.cpp | April 2023
-  
+* Project 1| scores.cpp | April 2023
+Accompanying file: scores.dat
 
