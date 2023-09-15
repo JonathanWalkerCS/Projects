@@ -1,4 +1,4 @@
-# COP3014C_Projects
+# Projects:
 ____
 * Project 1: | racing.cpp | February 2023
 * Language: C++ 
