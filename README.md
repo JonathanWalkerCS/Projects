@@ -12,3 +12,11 @@ ____
 * Language: C++ 
 * Accompanying input file: scores.dat
 ____
+* Project 4: | PhaseInsurance.py | November 2023
+* Language: Python, SQL 
+* Accompanying input file: Insurance.sql
+____
+* Project 5: | browser.cpp | March 2024
+* Language: C++ 
+* Accompanying input file: queueADT.h, stack.h, stackADT.h
+____
