@@ -12,7 +12,7 @@ ____
 * Language: C++ 
 * Accompanying input file: scores.dat
 ____
-* Project 4: | PhaseInsurance.py | November 2023
+* Project 4: | phaseInsurance.py | November 2023
 * Language: Python, SQL 
 * Accompanying input file: Insurance.sql
 ____
