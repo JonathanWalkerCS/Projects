@@ -1,22 +1,22 @@
 # Projects:
 ____
-* Project 1: | racing.cpp | February 2023
+* Project 1: | racing.cpp | 
 * Language: C++ 
 * Accompanying input file: times.dat
 ____
-* Project 2: | acmebank.cpp | March 2023
+* Project 2: | acmebank.cpp | 
 * Language: C++ 
 * Accompanying input file: smith.accounts
 ____
-* Project 3: | scores.cpp | April 2023
+* Project 3: | scores.cpp | 
 * Language: C++ 
 * Accompanying input file: scores.dat
 ____
-* Project 4: | phaseInsurance.py | November 2023
+* Project 4: | phaseInsurance.py | 
 * Language: Python, SQL 
 * Accompanying input file: Insurance.sql
 ____
-* Project 5: | browser.cpp | March 2024
+* Project 5: | browser.cpp | 
 * Language: C++ 
 * Accompanying input file: queueADT.h, stack.h, stackADT.h
 ____
