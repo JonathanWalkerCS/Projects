@@ -1,6 +1,6 @@
 # Projects:
 ____
-* Project 1: | racing.cpp | 
+* Project 1: |[racing.cpp]([https://www.google.com/](https://github.com/JonathanWalkerCS/Projects/blob/main/racing.cpp))| 
 * Language: C++ 
 * Accompanying input file: times.dat
 ____
