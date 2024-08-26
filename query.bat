@@ -1,0 +1,1 @@
+@py C:\Users\Jonat\MyPythonScripts\sql.py %*
