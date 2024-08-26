@@ -23,7 +23,7 @@ ____
 * Project 6: | sortingsearching.cpp | 
 * Language: C++ 
 * Accompanying input file: queueADT.h, stack.h, stackADT.h
-* ____
+____
 * Project 7: | query.py | 
 * Language: Python
 * Accompanying input file:
